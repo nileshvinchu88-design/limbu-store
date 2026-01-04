@@ -1,0 +1,5 @@
+{
+  "name": "LimbuTrack - Lemonade Stall MIS",
+  "description": "A comprehensive daily Management Information System (MIS) for lemonade stalls to track sales, inventory usage (lemon, ice), and snack sales with dashboard analytics and AI-powered business insights.",
+  "requestFramePermissions": []
+}
